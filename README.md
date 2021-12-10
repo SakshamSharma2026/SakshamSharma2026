@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4E16AQFGrbG08gm01Q/profile-displaybackgroundimage-shrink_350_1400/0/1617468533669?e=1644451200&v=beta&t=s11is4xKd-AaVsD664S_Cf_iDTKdHRh00d1tTTJMp68" height="200" alt="Hello !" /> </p>
-
 <h1 align="center">Hi 👋, I'm Saksham Sharma</h1>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
