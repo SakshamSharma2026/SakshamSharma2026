@@ -13,7 +13,7 @@
 
 <h2 align="left">😃 About:</h2>
 
-- 👨‍💻 I’m Android Intern at [AppyHigh](https://www.appyhigh.com/)
+- 👨‍💻 I’m SDE-1(Android) at [Carnot](https://www.carnot.co.in/)
 
 - 🌱 I’m currently learning **Android and IOS development**
 
