@@ -13,9 +13,9 @@
 
 <h2 align="left">😃 About:</h2>
 
-- 👨‍💻 I’m Android Intern at [AppyHigh](https://www.appyhigh.com/)
+- 👨‍💻 I’m Android Engineer at [Carnot](https://www.carnot.co.in)
 
-- 🌱 I’m currently learning **Android and IOS development**
+- 🌱 I’m exploring advanced concepts in **Android development**
 
 - 🤝 I love to learn **new things and help others**
 
