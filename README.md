@@ -1,35 +1,83 @@
-<h2 align="center">Hi 👋, I'm Saksham Sharma</h2>
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/saksham-sharma-a4b4351a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saksham-sharma-a4b4351a9/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/saksham_sharma26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/saksham_sharma26/" height="30" width="40" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?color=8B5CF6&center=true&vCenter=true&width=800&lines=Flutter+Engineer+%7C+Mobile+Engineer;Clean+Architecture+%7C+Scalable+Systems+%7C+High-Performance+Apps;Production-Grade+Apps+Used+By+Thousands;Open+to+Remote+%26+Global+Opportunities+🚀" />
 </p>
-<h3 align="center">I'm Saksham Sharma, B.Tech CSE Student. An Android Developer who loves building amazing and useful applications</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sakshamsharma2026&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamsharma2026" /> </p>
+<h1 align="center">Saksham Sharma</h1>
+<h3 align="center">Mobile Engineer | Flutter | Android | iOS | Clean Architecture </h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saksham-sharma-a4b4351a9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:developer.saksham26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://saksham-dev-ss26.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Work-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Engineering Mission
+
+> I engineer **scalable, production-grade mobile platforms** using **Flutter both (Android & iOS)** with a strong focus on **Clean Architecture, system design, performance optimization, and CI/CD automation**.  
+> My work powers **high-impact applications used by thousands of users** across **iOS and Android**, transforming business ideas into **secure, reliable, and measurable digital products**.
+
+---
+
+## ⚡ Engineering Dashboard
+
+| Domain | Focus | Stack |
+|--------|--------|-------|
+| 📱 Mobile Platforms | Flutter · Android · iOS | Kotlin · Java · Dart |
+| 🏗 Architecture | Clean Architecture · Modular Design | MVVM · BLoC · Riverpod |
+| 🚀 DevOps | CI/CD · Automation | GitHub Actions · Codemagic |
+| ☁ Backend | APIs · Auth · Cloud | Firebase · REST · JWT |
+| 📊 Performance | Profiling · Optimization | Memory · Network · Rendering |
+
+---
+
+## 🧩 Impact Highlights
+
+- 🏗 **Architected end-to-end mobile systems** from design to **App Store & Play Store deployment**
+- ⚡ **Boosted performance & reliability** using **modular clean architecture & automated CI/CD pipelines**
+- 🔐 Built **secure API layers** with **JWT authentication & Firebase backend integration**
+- 🤝 Collaborated with **product, design & backend teams** to ship **scalable, user-focused solutions**
+
+---
+
+## 🛠 Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,android,kotlin,java,dart,firebase,git,postman,figma" />
+</p>
 
 
+## 🌐 Portfolio & Case Studies
 
-<h2 align="left">😃 About:</h2>
+<p align="center">
+  <a href="https://saksham-dev-ss26.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20Portfolio-Mobile%20Engineering%20Work-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
-- 👨‍💻 I’m Android Engineer at [Carnot](https://www.carnot.co.in)
+> 📌 Explore **production Flutter & Android apps, clean architecture case studies, CI/CD pipelines, and scalable mobile systems** used in real-world environments.
 
-- 🌱 I’m exploring advanced concepts in **Android development**
+---
 
-- 🤝 I love to learn **new things and help others**
+## 🎯 Open to Opportunities
 
-- 💻 All of my projects are available at [https://github.com/SakshamSharma2026](https://github.com/SakshamSharma2026)
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter%20Engineer-Hiring%20Ready-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Android%20Engineer-Open%20To%20Work-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mobile%20Engineer-Remote%20Friendly-purple?style=for-the-badge"/>
+</p>
 
-- 💬 Ask me about **android, java, kotlin, android tips and tricks**
+> Seeking roles focused on **scalable mobile platforms, system design, performance engineering, and product-driven teams**.
 
-- 📫 How to reach me **developer.saksham26@gmail.com**
+---
 
-- ⚡ Fun fact **I am foodie person😋**
-
-<h3 align="left">Tech Stack:</h3>
-
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshamsharma2026&show_icons=true&locale=en&layout=compact" alt="sakshamsharma2026" /></p>
-
+<p align="center">
+  <b>“Great apps aren’t built — they’re engineered.”</b> 🚀  
+</p>
